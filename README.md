@@ -8,5 +8,10 @@ Task Description 2 : Create 20 files with .txt extensions and rename the first 5
 
 Screenshot of Task Description 2 :
 
+![Screenshot 2024-10-20 205305](https://github.com/user-attachments/assets/06be80f8-dcea-4a18-a42e-d22f7728d79b)
+
+
+
+
 
 
