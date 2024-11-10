@@ -16,5 +16,13 @@ Create a shell script to print the HTTP error code of guvi.in & print, the succe
 
 Solution :
 
+This is the content of the script file.
+
+![image](https://github.com/user-attachments/assets/bde16ae5-16c4-469a-9dfe-827ad53a7cbf)
+
+This is the http code when the script was executed
+
+![image](https://github.com/user-attachments/assets/3cc47776-d3ac-452c-ac1d-a6dadaff5b13)
+
 
 
