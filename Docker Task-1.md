@@ -19,7 +19,9 @@ Exploring Docker commands:
 
 
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/ead1b1d8-527b-40b0-a042-e980f105bedb" />
+
 ![image](https://github.com/user-attachments/assets/d55978f0-1f2b-4d58-b785-272e163aeddc)
+
 ![image](https://github.com/user-attachments/assets/58e3aa62-d7b5-4413-a0a9-942df9b38a81)
 
 
