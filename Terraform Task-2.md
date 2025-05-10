@@ -20,6 +20,12 @@ Create a main.tf, variables.tf, provider.tf file
 
 ![image](https://github.com/user-attachments/assets/cdfbe634-4511-44b9-b6b3-7ec84d2ea2b8)
 
+![image](https://github.com/user-attachments/assets/3df4dc04-815f-46eb-acf8-6e524d41e5f3)
+
+![image](https://github.com/user-attachments/assets/f6d4830a-27da-4675-a2ff-33f103a80aed)
+
+
+
 
 
 
