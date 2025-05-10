@@ -23,6 +23,12 @@ Create three files namely main.tf, provider.tf and variables.tf
 
 ![image](https://github.com/user-attachments/assets/1bcf898e-86cd-466a-a0b3-077cfea1c184)
 
+![image](https://github.com/user-attachments/assets/64981845-af1d-4f32-9f3f-62de5d8367ae)
+
+![image](https://github.com/user-attachments/assets/9700f57c-548b-4975-bca8-d2f775bc82ba)
+
+
+
 
 
 
