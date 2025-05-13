@@ -10,6 +10,7 @@ Soltuion:
 
 ![image](https://github.com/user-attachments/assets/7345eb0a-44c2-4e50-967a-1286732bd31b)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/693aad2a-7cfc-4f18-8e94-5f74e0fdc602)
+
 
 
