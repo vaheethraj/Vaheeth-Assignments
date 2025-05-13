@@ -9,6 +9,9 @@ Solution:
 
 ![image](https://github.com/user-attachments/assets/bb37cf4d-4def-4c3e-99cd-fd4f15f47a60)
 
+![image](https://github.com/user-attachments/assets/1c4b785c-1cac-472a-b0f6-fc498c6c4050)
+
+
 
 
 
