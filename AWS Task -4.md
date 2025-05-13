@@ -9,3 +9,6 @@ Finally, create an EBS volume using the taken snapshot.
 ![image](https://github.com/user-attachments/assets/b39336e9-d57e-4977-a4e1-097c96e5e93a)
 
 ![image](https://github.com/user-attachments/assets/258a2d7a-36a2-48e0-9acb-c911794e4978)
+
+![image](https://github.com/user-attachments/assets/e33a1571-4139-4fb3-a36b-79a5788d54dd)
+
