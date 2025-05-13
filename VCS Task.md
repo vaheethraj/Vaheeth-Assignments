@@ -13,6 +13,9 @@ Solution:
 
 ![image](https://github.com/user-attachments/assets/450bf882-a994-469a-a16a-d32497a9ca4b)
 
+![image](https://github.com/user-attachments/assets/1b9b4c94-db28-4bf5-a723-071146b4be73)
+
+
 
 
 
